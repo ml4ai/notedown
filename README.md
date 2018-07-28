@@ -1,7 +1,7 @@
 *Python 2/3 and IPython 4 / Jupyter compatible!*
 
-This project is forked from [coltongrainger/notedown], which was
-itself of the original project, [aaren/notedown](http://github.com/aaren/notedown).
+This project is forked from [coltongrainger/notedown](http://github.com/coltongrainger/notedown), which was
+itself a fork of the original project, [aaren/notedown](http://github.com/aaren/notedown).
 
 
 Convert IPython Notebooks to markdown (and back)
