@@ -1,4 +1,8 @@
-*Python 2/3 and IPython 4 / Jupyter compatible!* <a href='https://travis-ci.org/aaren/wavelets'> <img src='https://secure.travis-ci.org/aaren/wavelets.png?branch=master'></a>
+*Python 2/3 and IPython 4 / Jupyter compatible!*
+
+This project is forked from [coltongrainger/notedown], which was
+itself of the original project, [aaren/notedown](http://github.com/aaren/notedown).
+
 
 Convert IPython Notebooks to markdown (and back)
 ------------------------------------------------
@@ -7,7 +11,7 @@ Convert IPython Notebooks to markdown (and back)
 from markdown (and r-markdown).
 
 [ipython]: http://www.ipython.org/notebook
-[notedown]: http://github.com/aaren/notedown
+[notedown]: http://github.com/ml4ai/notedown
 
 `notedown` separates your markdown into code and not code. Code
 blocks (fenced or indented) go into input cells, everything else
@@ -23,7 +27,7 @@ Installation:
 
 or the latest on github:
 
-    pip install https://github.com/aaren/notedown/tarball/master
+    pip install https://github.com/ml4ai/notedown/tarball/master
 
 
 ### Conversion to markdown
